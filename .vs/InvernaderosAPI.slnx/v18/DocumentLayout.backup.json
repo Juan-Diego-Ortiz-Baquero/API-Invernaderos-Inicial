@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\controllers\\lecturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\controllers\\lecturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\configuracionumbral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\configuracionumbral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\lectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\lectura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\invernadero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\invernadero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|c:\\users\\baker\\source\\repos\\invernaderosapi\\invernaderosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77368E-B082-95E0-8B6B-3626D8CB3F48}|InvernaderosAPI\\InvernaderosAPI.csproj|solutionrelative:invernaderosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\appsettings.json",
+              "RelativeToolTip": "InvernaderosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-20T21:52:23.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:07:44.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturasController.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\LecturasController.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Controllers\\LecturasController.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\LecturasController.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Controllers\\LecturasController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAawFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:06:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Program.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:03:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InvernaderosAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T02:51:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:04:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfiguracionUmbral.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\ConfiguracionUmbral.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\ConfiguracionUmbral.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\ConfiguracionUmbral.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\ConfiguracionUmbral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:00:20.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Alerta.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\Alerta.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Alerta.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:00:00.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lectura.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Lectura.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\Lectura.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Lectura.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\Lectura.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:59:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwGwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:01:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Sensor.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:59:08.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\DTOs\\DTOs.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\DTOs\\DTOs.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\DTOs\\DTOs.cs",
+              "RelativeToolTip": "InvernaderosAPI\\DTOs\\DTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:02:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invernadero.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Invernadero.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\Invernadero.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Invernadero.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\Invernadero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:26.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "InvernaderosAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\baker\\source\\repos\\InvernaderosAPI\\InvernaderosAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "InvernaderosAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T21:58:51.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
